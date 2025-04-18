@@ -1,0 +1,8 @@
+# ~/.streamlit/config.toml
+
+[theme]
+primaryColor = "#FF6347"  # Tomato red
+backgroundColor = "#F5F5F5"  # Light grey background
+secondaryBackgroundColor = "#FFFFFF"  # White secondary background
+textColor = "#333333"  # Dark text
+font = "sans serif"  # Choose a font style (serif, sans serif, etc.)
